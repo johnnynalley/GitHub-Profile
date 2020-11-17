@@ -17,6 +17,5 @@ Most of the things I program will be hosted here.
 
 If you would like to find me on some other platforms, I can be found on:
 
-**Instagram:** https://instagram.com/literallyjohnny
-
-**Twitter:** https://twitter.com/LiterallyJohnny
+**Instagram:** [@literallyjohnnyy](https://instagram.com/literallyjohnny)
+**Twitter:** [@LiterallyJohnny](https://twitter.com/LiterallyJohnny)
