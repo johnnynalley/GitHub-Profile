@@ -8,3 +8,13 @@
     </td>
   </tr>
 </table>
+
+**Hi!**
+My name is Johnny, and I am a beginner programmer from Texas, USA. I am currently learning Python.
+
+Most of the things I program will be hosted here.
+
+If you would like to find me on some other platforms, I can be found on:
+
+**Instagram:** https://instagram.com/literallyjohnny
+**Twitter:** https://twitter.com/LiterallyJohnny
