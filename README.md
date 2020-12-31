@@ -9,9 +9,7 @@
   </tr>
 </table>
 
-**Hi!**
-
-My name is Johnny, and I am a beginner programmer from Texas, USA. I am currently learning Python. Most of the things I program will be hosted here.
+**Hi!** I am a beginner programmer from Texas, USA. I am currently learning the Python programming language. Most of the things I program will be hosted here.
 
 If you would like to find me on some other platforms, I can be found on:
 
@@ -20,11 +18,22 @@ If you would like to find me on some other platforms, I can be found on:
 **Twitter:** [@LiterallyJohnny](https://twitter.com/LiterallyJohnny)
 
 ## Computer Information
-### Daily-Driver Laptop
-- **Brand**: Dell
+### Desktop PC
+- **Operation System (OS)**: [Arch Linux](https://archlinux.org)
+- **Monitor**: Dell S2409W
+- **Processor (CPU)**: AMD GX-415GA SOC
+- **Graphics Processing Unit (GPU)**: AMD ATI Radeon HD 8330E
+- **RAM**: 8GB DDR3
+- **Internal Storage**: ATA HGST HTS721010A9 (1TB)
+- **External Storage**: WD My Passport 25E1 (2TB)
+- **Window Manager (WM)**: [i3-gaps](https://github.com/Airblader/i3)
+- **Desktop Environment (DE)**: N/A
+- [**You can find the dotfiles for my Arch Linux configuration here**](https://github.com/LiterallyJohnny/Dotfiles)
+
+### Laptop
 - **Operating System (OS)**: [Arch Linux](https://archlinux.org/)
 - **Processor (CPU)**: Intel Pentium
-- **Graphics Processor Unit (GPU)**: Intel Integrated Graphics
+- **Graphics Processing Unit (GPU)**: Intel Integrated Graphics
 - **RAM**: 4GB DDR3
 - **Storage** 500GB HDD
 - **Window Manager (WM)**: [i3-gaps](https://github.com/Airblader/i3)
