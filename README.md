@@ -37,5 +37,5 @@ If you would like to find me on some other platforms, I can be found on:
 - **RAM**: 4GB DDR3
 - **Storage** 500GB HDD
 - **Window Manager (WM)**: [i3-gaps](https://github.com/Airblader/i3)
-- **Desktop Environment**: N/A
+- **Desktop Environment (DE)**: N/A
 - [**You can find the dotfiles for my Arch Linux configuration here**](https://github.com/LiterallyJohnny/Dotfiles)
