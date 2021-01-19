@@ -22,7 +22,11 @@ If you would like to find me on some other platforms, I can be found on:
 ## Frequently Asked Questions
 1. *Why don't you use Windows?*
 
-I highly prefer Linux. Linux allows you to customize whatever you would like. You can literally make your desktop look like however you want, take a look at [r/unixporn](https://www.reddit.com/r/unixporn/) for example as to what I mean. Linux is completely free and open source, so that means you know what's inside of the code. There is no spyware, keyloggers, or whatever bullshit Microsoft puts into Windows. Don't get me wrong though, Windows isn't a bad OS, but I believe Linux is better than it in (almost) all aspects (Except for gaming, but now we have things like [Proton](www.protondb.com.) that allows us to play Windows games.) If you would like to give Linux a shot, feel free to DM me on [Instagram](https://instagram.com/literallyjohnnyy) and I'll get you started.
+I highly prefer Linux. Linux allows you to customize whatever you would like. You can literally make your desktop look like however you want, take a look at [r/unixporn](https://www.reddit.com/r/unixporn/) for an example as to what I mean.
+
+Linux is completely free and open source, so that means you know what's inside of the code. There is no spyware, keyloggers, or whatever bullshit Microsoft puts into Windows. As long as you use common sense while on the internet, you really have no need for an antivirus.
+
+Don't get me wrong though, Windows isn't a bad OS, but I believe Linux is better than it in (almost) all aspects (Except for gaming, but now we have things like [Proton](www.protondb.com.) that allows us to play Windows games. Gaming on Linux has come a *long* way.) If you would like to give Linux a shot, feel free to DM me on [Instagram](https://instagram.com/literallyjohnnyy) and I'll get you started.
 
 2. *What games do you play?*
 
@@ -41,7 +45,7 @@ No.
 - **RAM**: 8GB DDR3
 - **Internal Storage**: ATA HGST HTS721010A9 (1TB)
 - **External Storage**: WD My Passport 25E1 (2TB)
-- **Window Manager (WM)**: [i3-gaps](https://github.com/Airblader/i3)
+- **Window Manager (WM)**: [i3wm](https://github.com/i3/i3)
 - **Desktop Environment (DE)**: N/A
 - [**You can find the dotfiles for my Arch Linux configuration here**](https://github.com/LiterallyJohnny/Dotfiles)
 
@@ -50,7 +54,7 @@ No.
 - **Processor (CPU)**: Intel Pentium
 - **Graphics Processing Unit (GPU)**: Intel Integrated Graphics
 - **RAM**: 4GB DDR3
-- **Storage** 500GB HDD
-- **Window Manager (WM)**: [i3-gaps](https://github.com/Airblader/i3)
+- **Internal Storage** 500GB HDD
+- **Window Manager (WM)**: [i3wm](https://github.com/i3/i3)
 - **Desktop Environment (DE)**: N/A
 - [**You can find the dotfiles for my Arch Linux configuration here**](https://github.com/LiterallyJohnny/Dotfiles)
