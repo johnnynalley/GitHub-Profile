@@ -45,7 +45,7 @@ No.
 - **RAM**: 8GB DDR3
 - **Internal Storage**: ATA HGST HTS721010A9 (1TB)
 - **External Storage**: WD My Passport 25E1 (2TB)
-- **Window Manager (WM)**: [i3wm](https://github.com/i3/i3)
+- **Window Manager (WM)**: [Sway](https://swaywm.org/)
 - **Desktop Environment (DE)**: N/A
 - [**You can find the dotfiles for my Arch Linux configuration here**](https://github.com/LiterallyJohnny/Dotfiles)
 
@@ -55,6 +55,6 @@ No.
 - **Graphics Processing Unit (GPU)**: Intel Integrated Graphics
 - **RAM**: 4GB DDR3
 - **Internal Storage** 500GB HDD
-- **Window Manager (WM)**: [i3wm](https://github.com/i3/i3)
+- **Window Manager (WM)**: [Sway](https://swaywm.org/)
 - **Desktop Environment (DE)**: N/A
 - [**You can find the dotfiles for my Arch Linux configuration here**](https://github.com/LiterallyJohnny/Dotfiles)
