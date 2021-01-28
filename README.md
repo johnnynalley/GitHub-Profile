@@ -32,11 +32,7 @@ Don't get me wrong though, Windows isn't a bad OS, but I believe Linux is better
 
 I actually don't play many games anymore. At the time I am writing this, I only have an Xbox One, which I hardly use anymore. I used to play a ton of games though, such as Call of Duty and GTA V.
 
-3. *Can you fix my printer?*
-
-No.
-
-# Computer Information
+# System Specs
 ## Desktop PC
 - **Operation System (OS)**: [Arch Linux](https://archlinux.org)
 - **Monitor**: Dell S2409W
@@ -45,16 +41,14 @@ No.
 - **RAM**: 8GB DDR3
 - **Internal Storage**: ATA HGST HTS721010A9 (1TB)
 - **External Storage**: WD My Passport 25E1 (2TB)
-- **Window Manager (WM)**: [Sway](https://swaywm.org/)
-- **Desktop Environment (DE)**: N/A
+- **Window Manager/Desktop Environment (WM/DE)**: [SwayWM](https://swaywm.org/)
 - [**You can find the dotfiles for my Arch Linux configuration here**](https://github.com/LiterallyJohnny/Dotfiles)
 
 ## Laptop
-- **Operating System (OS)**: [Arch Linux](https://archlinux.org/)
-- **Processor (CPU)**: Intel Pentium
+- **Operation System (OS)**: [Arch Linux](https://archlinux.org)
+- **Processor (CPU)**: Intel Pentium N3710
 - **Graphics Processing Unit (GPU)**: Intel Integrated Graphics
 - **RAM**: 4GB DDR3
 - **Internal Storage** 500GB HDD
-- **Window Manager (WM)**: [Sway](https://swaywm.org/)
-- **Desktop Environment (DE)**: N/A
+- **Window Manager/Desktop Environment (WM/DE)**: [SwayWM](https://swaywm.org/)
 - [**You can find the dotfiles for my Arch Linux configuration here**](https://github.com/LiterallyJohnny/Dotfiles)
