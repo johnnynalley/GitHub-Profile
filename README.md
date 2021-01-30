@@ -22,11 +22,7 @@ If you would like to find me on some other platforms, I can be found on:
 ## Frequently Asked Questions
 1. *Why don't you use Windows?*
 
-I highly prefer Linux. Linux allows you to customize whatever you would like. You can literally make your desktop look like however you want, take a look at [r/unixporn](https://www.reddit.com/r/unixporn/) for an example as to what I mean.
-
-Linux is completely free and open source, so that means you know what's inside of the code. There is no spyware, keyloggers, or whatever bullshit Microsoft puts into Windows. As long as you use common sense while on the internet, you really have no need for an antivirus.
-
-Don't get me wrong though, Windows isn't a bad OS, but I believe Linux is better than it in (almost) all aspects (Except for gaming, but now we have things like [Proton](www.protondb.com.) that allows us to play Windows games. Gaming on Linux has come a *long* way.) If you would like to give Linux a shot, feel free to DM me on [Instagram](https://instagram.com/literallyjohnnyy) and I'll get you started.
+I simply prefer Linux. It makes programming and development easier (IMO), and it's *super* customizable. I don't do much gaming, so gaming on Linux is not something I have to deal with.
 
 2. *What games do you play?*
 
