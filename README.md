@@ -19,6 +19,7 @@ things I program will be hosted here.
 If you would like to find me on some other platforms, I can be found on:
 
 **Instagram:** [@literally.johnnyy](https://instagram.com/literally.johnnyy)
+
 **TikTok:** [@literally.johnny](https://vm.tiktok.com/ZMexaDpe9)
 
 ### System Specs
